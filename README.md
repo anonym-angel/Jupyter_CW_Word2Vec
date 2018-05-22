@@ -1,2 +1,3 @@
 # Jupyter_CW_Word2Vec
-ClassWork_Word2Ve
+
+Классная работа по теме "Работа с данными, принцип Word2Vec"
